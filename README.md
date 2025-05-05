@@ -1,4 +1,4 @@
-#🧮 Calculadora Java para exercício de Física
+# 🧮 Calculadora Java para exercício de Física
 
 Uma calculadora simples feita em Java com interface gráfica (JFrame).
 
@@ -7,13 +7,13 @@ O programa calcula a razão entre a tensão em cada tíbia (extremidade da perna
 caso o usuário opte por colocar o peso do inseto.
 
 
-##📸 Preview da interface
+# 📸 Preview da interface
 
 ![image](https://github.com/user-attachments/assets/7a7e0ce6-8a57-48af-8a07-f2193fc31e76)
 
-##🚀 Funcionalidades
+# 🚀 Funcionalidades
 
-✅ Interface gráfica (Swing)
-✅ Validação de entrada
-✅ Calculo de tensão e tensão real
-✅ Erros tratados com mensagens
+- ✅ Interface gráfica (Swing)
+- ✅ Validação de entrada
+- ✅ Calculo de tensão e tensão real
+- ✅ Erros tratados com mensagens
