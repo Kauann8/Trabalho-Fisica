@@ -15,5 +15,5 @@ caso o usuário opte por colocar o peso do inseto.
 
 - ✅ Interface gráfica (Swing)
 - ✅ Validação de entrada
-- ✅ Calculo de tensão e tensão real
+- ✅ Calculo da razão e tensão real
 - ✅ Erros tratados com mensagens
