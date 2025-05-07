@@ -11,7 +11,7 @@ caso o usuário opte por colocar o peso do inseto.
 
 ![image](https://github.com/user-attachments/assets/7a7e0ce6-8a57-48af-8a07-f2193fc31e76)
 
-![Descrição da imagem](calculadora.png)
+![image](calculadora.png)
 
 # 🚀 Funcionalidades
 
