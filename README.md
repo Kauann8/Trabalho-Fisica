@@ -9,9 +9,8 @@ caso o usuário opte por colocar o peso do inseto.
 
 # 📸 Preview da interface
 
-![image](https://github.com/user-attachments/assets/7a7e0ce6-8a57-48af-8a07-f2193fc31e76)
+![image]([https://github.com/user-attachments/assets/7a7e0ce6-8a57-48af-8a07-f2193fc31e76](https://github.com/Kauann8/Trabalho-Fisica/blob/master/calculadora.png))
 
-![image](calculadora.png)
 
 # 🚀 Funcionalidades
 
