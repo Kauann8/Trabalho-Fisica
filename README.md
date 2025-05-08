@@ -9,7 +9,7 @@ caso o usuário opte por colocar o peso do inseto.
 
 # 📸 Preview da interface
 
-![calculadora](https://github.com/user-attachments/assets/68e6f7e5-e868-4165-a54f-8d61a7c8430d)
+<img src="./calculadora.png">
 
 
 # 🚀 Funcionalidades
